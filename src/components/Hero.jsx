@@ -108,7 +108,7 @@ export function Hero() {
               Red Rabbit Solutions
             </h1>
             <p className="mt-6 text-lg text-gray-600">
-              RRS has over a decade experience providing digital transformation for forward thinking firms. Contact us: warren -at- redrabbitsolutions.com
+              RRS has over a decade experience providing digital transformation and marketing for forward thinking firms. Contact us: warren -at- redrabbitsolutions.com
             </p>
             <div className="mt-8 flex flex-wrap gap-x-6 gap-y-4">
 
